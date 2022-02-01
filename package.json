@@ -1,5 +1,5 @@
 {
-  "name": "solcompiler",
+  "name": "simple-solc",
   "version": "1.0.0",
   "description": "Solidity compiler",
   "main": "index.js",
