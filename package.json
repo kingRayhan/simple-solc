@@ -8,8 +8,13 @@
     "install-peers": "install-peers -f"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "King Rayhan",
+    "email": "md.raihan095@northsouth.edu",
+    "url": "https://www.github.com/kingrayhan"
+  },
+  "repository": "kingRayhan/simple-solc",
+  "license": "MIT",
   "peerDependencies": {
     "solc": "^0.8.11"
   },
