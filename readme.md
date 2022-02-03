@@ -48,3 +48,10 @@ npm run install-peers
 ```bash
 npm run test
 ```
+
+
+### Buy me a cup of coffie
+If this helpful to you then please do care to buy a cup of coffie
+<a href="https://www.buymeacoffee.com/kingrayhan">
+  <img width="545" alt="yellow-button" src="https://user-images.githubusercontent.com/7611746/152309224-34d351dd-9495-4fea-b275-0dad76ca8055.png">
+</a>
